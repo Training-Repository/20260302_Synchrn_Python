@@ -6,3 +6,9 @@
 * Mutability (Mutable vs Immutable; Adv.s of Immutability)
 * Collection (Strings, Lists, Sets, Tuples, Dictionaries, FrozenSets, NamedTuples)
 * Comprehensions
+
+## Future Reading
+* Function overloading using 'multipledispatch' module
+* Generator & Iterator (iter(), next() methods)
+* Lambdas (Annonymous function)
+* Utilitiy functions (Map, Filter, Reduce)
