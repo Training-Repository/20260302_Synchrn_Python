@@ -12,3 +12,17 @@
 * Generator & Iterator (iter(), next() methods)
 * Lambdas (Annonymous function)
 * Utilitiy functions (Map, Filter, Reduce)
+
+## Notes
+* Virtual Environment (venv module)
+    * Create env - `py -m venv <env_folder_name>`
+    * Activate the env
+        * CommandPrompt - `<env_folder_name>\Scripts\activate.bat`
+        * PowerShell - `<env_folder_name>\Scripts\activate.ps1`
+        * Bash - `source <env_folder_name>\Scripts\activate`
+    * Deactivate - `deactivate`
+    * Package manager - `pip / pip3`
+        * List all packages - `pip list` OR  `py -m pip list`
+        * Upgrade pip - `py -m pip install pip --upgrade`
+        * Install packages - `pip install numpy`
+        * Remove package - `pip remove numpy`
