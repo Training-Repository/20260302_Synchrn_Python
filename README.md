@@ -12,6 +12,8 @@
 * Generator & Iterator (iter(), next() methods)
 * Lambdas (Annonymous function)
 * Utilitiy functions (Map, Filter, Reduce)
+* [Python Docs](https://docs.python.org/3.11/)
+* ['open' method (builtins)](https://docs.python.org/3.11/library/functions.html#open)
 
 ## Notes
 * Virtual Environment (venv module)
@@ -26,3 +28,5 @@
         * Upgrade pip - `py -m pip install pip --upgrade`
         * Install packages - `pip install numpy`
         * Remove package - `pip remove numpy`
+        * Get modules and versions in req file format - `pip freeze`
+            * `pip freeze > fix_req.txt`

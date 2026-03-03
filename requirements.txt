@@ -1,0 +1,4 @@
+django
+numpy
+multipledispatch
+urllib3
