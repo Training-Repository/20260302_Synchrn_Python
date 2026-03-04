@@ -30,3 +30,5 @@
         * Remove package - `pip remove numpy`
         * Get modules and versions in req file format - `pip freeze`
             * `pip freeze > fix_req.txt`
+    * [Exception Hierarchy](https://docs.python.org/3.11/library/exceptions.html#exception-hierarchy)
+    
