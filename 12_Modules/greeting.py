@@ -1,3 +1,5 @@
+__all__ = ['greet', 'greetName', 'greetInteractive']
+
 def greet():
     print("Hi there!")
 
@@ -20,7 +22,7 @@ def Test():
     greetName("Manish")
     greetInteractive()
 
-# print(f"{__name__ = }")
+# print(f"Greetings --> {__name__}")
 
 if __name__ == '__main__':
     Test()
