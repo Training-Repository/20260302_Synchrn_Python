@@ -31,4 +31,6 @@
         * Get modules and versions in req file format - `pip freeze`
             * `pip freeze > fix_req.txt`
     * [Exception Hierarchy](https://docs.python.org/3.11/library/exceptions.html#exception-hierarchy)
+    * [HTTP Requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+    * [HTTP Responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
     
