@@ -1,0 +1,4 @@
+fastapi[all]
+#Pydantic
+sqlmodel
+pytest
